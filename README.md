@@ -1,4 +1,5 @@
 # dio-desafio1
-Desafio de Protejo sobre git/github
-Objetivo :
-Repositorio criado para desafio de projeto
+Descrição do desafio 
+
+Reforçar o seu conhecimento em git/github 
+Executar os passos: criação ,atualização e sicronização de um repositorio no github.
